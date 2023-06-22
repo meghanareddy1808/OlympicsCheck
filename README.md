@@ -29,8 +29,6 @@ It contains three main sections:
 
 ![Screenshot (51)](https://github.com/meghanareddy1808/OlympicsCheck/assets/108571707/6bbb2c1e-1f23-4b51-a0b3-866a8701ec91)
 
-![Screenshot (52)](https://github.com/meghanareddy1808/OlympicsCheck/assets/108571707/8c23244d-2493-4fe)
-
 ![Screenshot (53)](https://github.com/meghanareddy1808/OlympicsCheck/assets/108571707/083b7844-aff5-4ce9-9ef2-9c0637e0d694)
 
 ![Screenshot (54)](https://github.com/meghanareddy1808/OlympicsCheck/assets/108571707/ebbc51fc-555c-408e-8d25-c9419bc49d46)
